@@ -1,5 +1,6 @@
 # Projeto-Mata-Mosquito
-Projeto desenvolvido por mim Roberto Neto como maneira de estudo e treino de Java Script;
+Projeto desenvolvido por mim Roberto Neto através de um Curso como maneira de estudo e treino de Java Script;
+
 Como Funciona:
 
   -Acessamos a página Inicial e selecionamos o nível de dificuldade desejado;
